@@ -1,0 +1,6 @@
+1. Open Project in Terminal
+2. Write command : "npm start" to run project
+
+NOTE : 
+1) Need to change the images in the Project Report file.
+2) Also in the Portfolio Project change the name.
